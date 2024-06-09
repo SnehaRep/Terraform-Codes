@@ -1,0 +1,3 @@
+variable "Linux_vm" {
+  
+}
